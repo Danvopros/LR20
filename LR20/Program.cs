@@ -15,7 +15,7 @@ namespace HelloApp
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("Таблица считания");
+            Console.WriteLine("Таблица сложения для первых 10 чисел"); // дополнение к выводу
             for (int i = 0; i < 10; i++)
             {
                 for (int j = 0; j < 10; j++)
